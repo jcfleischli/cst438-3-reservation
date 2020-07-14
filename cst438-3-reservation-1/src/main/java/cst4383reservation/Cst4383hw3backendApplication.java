@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Cst4383Reservation1Application {
+public class Cst4383hw3backendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Cst4383Reservation1Application.class, args);
+		SpringApplication.run(Cst4383hw3backendApplication.class, args);
 	}
 
 }
